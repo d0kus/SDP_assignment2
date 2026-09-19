@@ -21,6 +21,5 @@ public class Main {
         HeroLoadout mage = new HeroLoadout(mageFactory);
         mage.displayLoadout();
         mage.battle(80);
-
     }
 }
